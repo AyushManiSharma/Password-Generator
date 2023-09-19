@@ -1,0 +1,53 @@
+*,
+::after {
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    color: darkgray
+}
+
+.card {
+    border-radius: 5px;
+    box-shadow: black 0 5px 10px 0;
+    color: darkgray;
+    font-size: 20px;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px 20px;
+}
+
+.card-footer {
+    text-align: center
+}
+
+.btn {
+    background-color: red;
+    border-radius: 25px;
+    display: inline-block;
+    font-size: 20px;
+    line-height: 20px;
+    margin: 16px 16px 16px 16px;
+    padding: 15px 35px;
+    text-align: center;
+    cursor: pointer
+}
+
+#password {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: none;
+    display: block;
+    width: 100%;
+    font-size: 1.2rem;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 2px dashed gray;
+    border-radius: 6px;
+    resize: none;
+    overflow: hidden;
+    padding: 15px 15px 85px
+}
