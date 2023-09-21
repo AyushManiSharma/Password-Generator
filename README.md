@@ -47,6 +47,7 @@ THEN the password is either displayed in an alert or written to the page
 Please refer to the LICENSE in the repo.
 
 ## Screenshot
-
-
 ![Website Image](./assets/image.png)
+
+## Website link
+https://ayushmanisharma.github.io/Password-Generator/
